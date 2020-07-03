@@ -1,0 +1,23 @@
+{
+  "name": "cheatsheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madsgn1993/cheatsheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madsgn1993/cheatsheet/issues"
+  },
+  "homepage": "https://github.com/Madsgn1993/cheatsheet#readme",
+  "dependencies": {
+    "highlight.js": "^10.1.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
